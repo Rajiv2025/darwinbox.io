@@ -5,3 +5,5 @@
 
 4) message UI completed (person B)
 5) group chat configured (person A)
+
+6) chat feature completed
