@@ -1,1 +1,2 @@
 1) person A -> chat fearure
+2) person b -> UI for the chat system
