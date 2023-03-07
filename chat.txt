@@ -2,3 +2,4 @@
 2) person b -> UI for the chat system
 
 3) messages configured
+4) message UI completed
